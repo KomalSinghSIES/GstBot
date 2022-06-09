@@ -5,14 +5,20 @@ Azure Service Used - QnA Maker
 It is used to Build, train and publish a sophisticated bot using FAQ pages, support websites, product manuals, SharePoint documents or editorial content through an easy-to-use UI or via REST APIs.
 
 Step 1 - Creating a Knowledge base
+
 website link - https://siesgst.edu.in/
+
 Above is the ebsite used for creating a knowledge base of questions
+
 ![image](https://user-images.githubusercontent.com/73242601/172798407-73dc2ea6-4158-4d25-abab-0a5bea5269c7.png)
 
 Step 2 - Connecting QnA service to KB
+
 pdf used for knowledge base - https://siesgst.edu.in/docs/faq.pdf
 
 Step 3 - Connecting with channel
+
+Using Visual Studio Code for Web Channel
 ![image](https://user-images.githubusercontent.com/73242601/172803206-c82bfde8-d7e7-41bc-b01b-c039f4f2fbce.png)
 
 ![image](https://user-images.githubusercontent.com/73242601/172803400-2e5fed1f-432d-4fb5-b6d2-314e118853ac.png)
