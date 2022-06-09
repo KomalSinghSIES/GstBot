@@ -1,4 +1,28 @@
 # GstBot
-A Student Chabot project could be a retrieval-based chatbot that uses AI concepts to possess conversations with humans. Once a user asks any question, the bot can first analyze the request, build a response and send it back to the utilization. The chatbot can break down the user sentence into 2 things: intent and an entity. A retrieval-based chatbot is one that functions with predefined input patterns and set responses. The planned System could be a net application that has answers to the queries provided by the scholar or the user. Users can just question through the chatbot that is used for chatting. Students can chat by any format there isn't any specific format the user must follow. The answers are applicable to what the user queries. If the answers are found to be invalid or not accessible, then those queries are held on into the unanswered table that's basically created by the admin. Later those queries will be updated by the admin, simply just in case of urgency we are provided a message that “our representatives can get to bear with you shortly”. This could be displayed once aggregation the desired data from the user. Admin can browse invalid answers through a portal via login System, it's going to permit the admin to get rid of the invalid answer conjointly as in updating the acceptable answer for the question raised by the user. The User can raise any college connected activities through the system. The user does not have to be compelled to personally move to the college for enquiry. The System analyzes the question then answers to the user. The system answers the query as if it's answered by the real person. The user can question concerning the college connected activities through on-line with the help of this net application.
-demo link - https://drive.google.com/file/d/1VRxPvPBDAQYC9fCT-XplrTzsymZtaH7w/view?usp=sharing
+A Student Chabot project could be a retrieval-based chatbot that uses AI concepts to possess conversations with humans. The system answers the query as if it's answered by the real person. The user can question concerning the college connected activities through on-line with the help of this net application.
+
+Azure Service Used - QnA Maker
+It is used to Build, train and publish a sophisticated bot using FAQ pages, support websites, product manuals, SharePoint documents or editorial content through an easy-to-use UI or via REST APIs.
+
+Step 1 - Creating a Knowledge base
 website link - https://siesgst.edu.in/
+Above is the ebsite used for creating a knowledge base of questions
+![image](https://user-images.githubusercontent.com/73242601/172798407-73dc2ea6-4158-4d25-abab-0a5bea5269c7.png)
+
+Step 2 - Connecting QnA service to KB
+pdf used for knowledge base - https://siesgst.edu.in/docs/faq.pdf
+
+Step 3 - Connecting with channel
+![image](https://user-images.githubusercontent.com/73242601/172803206-c82bfde8-d7e7-41bc-b01b-c039f4f2fbce.png)
+
+![image](https://user-images.githubusercontent.com/73242601/172803400-2e5fed1f-432d-4fb5-b6d2-314e118853ac.png)
+
+Step 4 - Testing
+![image](https://user-images.githubusercontent.com/73242601/172804530-6040cece-5a13-426f-b0d1-e18a2b545ff9.png)
+
+Output - 
+
+![image](https://user-images.githubusercontent.com/73242601/172804909-5084559c-523e-471e-a747-27a34ed27855.png)
+
+demo link - https://drive.google.com/file/d/1VRxPvPBDAQYC9fCT-XplrTzsymZtaH7w/view?usp=sharing
+
